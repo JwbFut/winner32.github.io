@@ -8,7 +8,7 @@ This is the website of jawbts,
 XingYuan___ is developing it   
 All kinds of questions can be submitted to Issues
 
-© 2021-2022 Jawbts. All Rights Reserved
+© 2021-2024 Jawbts. All Rights Reserved
 
 ## 技术性内容
 这个网站的i18n很烂.  
